@@ -1,0 +1,15 @@
+@import "./variables";
+
+$theme-colors:(
+    "darkgray" :#2d2d2d,
+    "lightgray":#5c5c5c,
+    "light":#d1d1d1,
+    "primary":$primary,
+    "random": #eeff54 //to check wheather we can declare our custom colors here or not
+)
+;
+@import "../../node_modules/bootstrap/scss/bootstrap";
+@import "../../node_modules/bootstrap/scss/functions";
+@import "../../node_modules/bootstrap/scss/variables";
+@import "../../node_modules/bootstrap/scss/mixins";
+@import "../../node_modules/bootstrap/scss/maps";
