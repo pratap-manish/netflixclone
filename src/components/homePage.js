@@ -261,6 +261,8 @@ function HomePage(props) {
                     Clone made by <b>Manish Pratap Singh</b>
                 </label>
                 <br></br> 
+                <a href="https://main--statuesque-melba-8e2373.netlify.app/" class="text-light fs-3 pt-4"> Click here </a>
+                <span className="text-light fs-3 fw-bold">for my shopping web app</span><br></br>
                 <label className='text-light fs-4 pt-3'>
                 This website is a non-commercial, educational project intended solely for the purpose of demonstrating web development skills. It is a clone of the Netflix.com website 
                 created for personal learning and portfolio display.<br></br> 
